@@ -131,7 +131,10 @@ file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/sr
 file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector4.dart
 file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/vector_math.dart
 file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/vector_math_64.dart
-file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.2+5/lib/video_player.dart
+file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.4+1/lib/video_player.dart
+file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-1.0.3/lib/method_channel_video_player.dart
+file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-1.0.3/lib/video_player_platform_interface.dart
+file:///Users/ryjohn/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.0/lib/video_player_web.dart
 file:///Users/ryjohn/code/github/flutter/flutter/bin/cache/dart-sdk/lib/_internal/dart2js_platform.dill
 file:///Users/ryjohn/code/github/flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine.dart
 file:///Users/ryjohn/code/github/flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/alarm_clock.dart
@@ -695,7 +698,10 @@ file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter/lib/src/widget
 file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter/lib/src/widgets/widget_span.dart
 file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter/lib/widgets.dart
-file:///Users/ryjohn/code/github/flutter/samples/web/gallery/.dart_tool/flutter_build/c60501128bb0a1f1eb3f9a42f488b299/main.dart
+file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///Users/ryjohn/code/github/flutter/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
+file:///Users/ryjohn/code/github/flutter/samples/web/gallery/.dart_tool/flutter_build/de3c22bf24408e50b7c60423d0cf7fe4/main.dart
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/.packages
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/demo/all.dart
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/demo/animation/home.dart
@@ -794,4 +800,5 @@ file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/gallery/scales.
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/gallery/syntax_highlighter.dart
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/gallery/themes.dart
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/gallery/updater.dart
+file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/generated_plugin_registrant.dart
 file:///Users/ryjohn/code/github/flutter/samples/web/gallery/lib/main.dart
